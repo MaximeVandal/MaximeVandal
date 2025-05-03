@@ -4,6 +4,6 @@
 
 - <b>R</b>
   - [Estimation VaR avec modèle GARCH(1,1)](https://github.com/MaximeVandal/Estimation-VaR-avec-GARCH)
+  - [Estimation du risque dans un portefeuille d'options](https://github.com/MaximeVandal/Estimation-risque-portefeuille-options)
 - <b>Python</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
+  - 
